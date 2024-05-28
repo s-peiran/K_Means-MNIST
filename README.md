@@ -11,5 +11,5 @@ Training Accuracy = 0.8727
 Test Accuracy = 0.8877
 
 4.	Using logistic regression,
-Training Accuracy = 0.9436
+Training Accuracy = 0.9436 <br/>
 Test Accuracy rate = 0.9238
